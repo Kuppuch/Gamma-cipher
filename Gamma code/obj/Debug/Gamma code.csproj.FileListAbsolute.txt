@@ -1,0 +1,7 @@
+D:\Users\Roman\C#\Gamma code\Gamma code\bin\Debug\Gamma code.exe.config
+D:\Users\Roman\C#\Gamma code\Gamma code\bin\Debug\Gamma code.exe
+D:\Users\Roman\C#\Gamma code\Gamma code\bin\Debug\Gamma code.pdb
+D:\Users\Roman\C#\Gamma code\Gamma code\obj\Debug\Gamma code.csprojAssemblyReference.cache
+D:\Users\Roman\C#\Gamma code\Gamma code\obj\Debug\Gamma code.csproj.CoreCompileInputs.cache
+D:\Users\Roman\C#\Gamma code\Gamma code\obj\Debug\Gamma code.exe
+D:\Users\Roman\C#\Gamma code\Gamma code\obj\Debug\Gamma code.pdb
